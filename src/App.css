@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.leftside {
+  width: 319.24px;
+  height: 1805px;
+  background-color:#1E1E2D;
+  ;
+}
+
+.container {
+  display: flex;
+}
+
+.header {
+  width: 1487.76px;
+  height: 78.22px;
+  left: 319.24px;
+}
+
+.maindiv {
+  display: flex;
+}

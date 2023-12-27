@@ -1,0 +1,305 @@
+.sidebar {
+    background-color: #1e1e2d;
+    height: 1805px;
+    overflow: hidden;
+    width: 319px;
+  }
+  
+  .sidebar .overlap {
+    height: 1805px;
+    left: -2px;
+    position: relative;
+    width: 321px;
+  }
+  
+  .sidebar .background-rectangle {
+    background-color: #1e1e2d;
+    height: 1805px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 319px;
+  }
+  
+  .sidebar .highlighted {
+    background-color: #1b1b28;
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 115px;
+    width: 319px;
+  }
+  
+  .sidebar .top-part {
+    background-image: url(./assets/Highlighted\ rectangle.svg);
+    background-size: 100% 100%;
+    height: 78px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 319px;
+  }
+  
+  .sidebar .arrow-double-left {
+    height: 29px;
+    left: 260px;
+    position: absolute;
+    top: 24px;
+    width: 29px;
+  }
+  
+  .sidebar .icons-bright {
+    height: 156px;
+    left: 27px;
+    position: absolute;
+    top: 126px;
+    width: 30px;
+  }
+  
+  .sidebar .layers {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .sidebar .layout-blocks {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 128px;
+    width: 29px;
+  }
+  
+  .sidebar .overlap-group {
+    height: 19px;
+    left: 5px;
+    position: relative;
+    top: 5px;
+    width: 19px;
+  }
+  
+  .sidebar .rectangle {
+    background-color: #6993ff;
+    border-radius: 1.5px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 8px;
+  }
+  
+  .sidebar .combined-shape {
+    height: 19px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 19px;
+  }
+  
+  .sidebar .headings {
+    height: 22px;
+    left: 31px;
+    position: absolute;
+    top: 205px;
+    width: 63px;
+  }
+  
+  .sidebar .text-wrapper {
+    color: #4a4b68;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 61px;
+  }
+  
+  .sidebar .subheadings {
+    height: 166px;
+    left: 66px;
+    position: absolute;
+    top: 307px;
+    width: 75px;
+  }
+  
+  .sidebar .div {
+    color: #888c9f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 40px;
+  }
+  
+  .sidebar .text-wrapper-2 {
+    color: #888c9f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 48px;
+    width: 67px;
+  }
+  
+  .sidebar .text-wrapper-3 {
+    color: #888c9f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 96px;
+    width: 36px;
+  }
+  
+  .sidebar .text-wrapper-4 {
+    color: #888c9f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 144px;
+    width: 45px;
+  }
+  
+  .sidebar .subheadings-active {
+    height: 265px;
+    left: 32px;
+    position: absolute;
+    top: 15px;
+    width: 225px;
+  }
+  
+  .sidebar .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 114px;
+    width: 88px;
+  }
+  
+  .sidebar .dashboard {
+    color: #ffffff;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-size: 30px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 219px;
+  }
+  
+  .sidebar .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 241px;
+    width: 98px;
+  }
+  
+  .sidebar .strokes {
+    height: 96px;
+    left: 49px;
+    position: absolute;
+    top: 318px;
+    width: 6px;
+  }
+  
+  .sidebar .line {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 6px;
+  }
+  
+  .sidebar .img {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 47px;
+    width: 6px;
+  }
+  
+  .sidebar .line-2 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 95px;
+    width: 6px;
+  }
+  
+  .sidebar .icons-faded {
+    height: 386px;
+    left: 26px;
+    position: absolute;
+    top: 448px;
+    width: 29px;
+  }
+  
+  .sidebar .box {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 357px;
+    width: 29px;
+  }
+  
+  .sidebar .barcode-read {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 29px;
+  }
+  
+  .sidebar .rectangle-2 {
+    background-color: #4a4b68;
+    height: 19px;
+    left: 0;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    width: 10px;
+  }
+  
+  .sidebar .arrows {
+    height: 201px;
+    left: 277px;
+    position: absolute;
+    top: 264px;
+    width: 11px;
+  }
+  

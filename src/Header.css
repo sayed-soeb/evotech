@@ -1,0 +1,235 @@
+.header {
+    background-color: #ffffff;
+    height: 78px;
+    width: 79vw;
+  }
+  
+  .header .overlap {
+    height: 58px;
+    position: relative;
+    top: 17px;
+    width: 79vw;
+  }
+  
+  .header .sep {
+    background-color: #eeeff3;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 47px;
+    width: 79vw;
+  }
+  
+  .header .right {
+    height: 58px;
+    left: 50vw;
+    position: absolute;
+    top: 0;
+    width: 433px;
+  }
+  
+  .header .icons {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 6px;
+    width: 241px;
+  }
+  
+  .header .search {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 29px;
+  }
+  
+  .header .overlap-group {
+    height: 20px;
+    left: 5px;
+    position: relative;
+    top: 5px;
+    width: 19px;
+  }
+  
+  .header .path {
+    height: 7px;
+    left: 12px;
+    position: absolute;
+    top: 13px;
+    width: 7px;
+  }
+  
+  .header .img {
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 17px;
+  }
+  
+  .header .compiling {
+    height: 29px;
+    left: 53px;
+    position: absolute;
+    top: 0;
+    width: 29px;
+  }
+  
+  .header .div {
+    height: 23px;
+    left: 2px;
+    position: relative;
+    top: 2px;
+    width: 23px;
+  }
+  
+  .header .combined-shape {
+    height: 9px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 23px;
+  }
+  
+  .header .combined-shape-2 {
+    height: 23px;
+    left: 7px;
+    position: absolute;
+    top: 0;
+    width: 9px;
+  }
+  
+  .header .equalizer {
+    height: 29px;
+    left: 106px;
+    position: absolute;
+    top: 0;
+    width: 29px;
+  }
+  
+  .header .rectangle-copy {
+    background-color: #6993ff;
+    border-radius: 2px;
+    height: 19px;
+    left: 16px;
+    opacity: 0.3;
+    position: absolute;
+    top: 5px;
+    width: 4px;
+  }
+  
+  .header .rectangle-copy-2 {
+    background-color: #6993ff;
+    border-radius: 2px;
+    height: 13px;
+    left: 10px;
+    position: absolute;
+    top: 11px;
+    width: 4px;
+  }
+  
+  .header .rectangle-copy-3 {
+    background-color: #6993ff;
+    border-radius: 2px;
+    height: 11px;
+    left: 22px;
+    position: absolute;
+    top: 13px;
+    width: 4px;
+  }
+  
+  .header .rectangle-copy-4 {
+    background-color: #6993ff;
+    border-radius: 2px;
+    height: 8px;
+    left: 4px;
+    position: absolute;
+    top: 16px;
+    width: 4px;
+  }
+  
+  .header .stockholm-icons {
+    height: 29px;
+    left: 159px;
+    position: absolute;
+    top: 0;
+    width: 29px;
+  }
+  
+  .header .layout-blocks {
+    height: 29px;
+    left: 212px;
+    position: absolute;
+    top: 0;
+    width: 29px;
+  }
+  
+  .header .overlap-2 {
+    height: 19px;
+    left: 5px;
+    position: relative;
+    top: 5px;
+    width: 19px;
+  }
+  
+  .header .rectangle {
+    background-color: #6993ff;
+    border-radius: 1.5px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 8px;
+  }
+  
+  .header .combined-shape-3 {
+    height: 19px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 19px;
+  }
+  
+  .header .text-wrapper {
+    color: #959cb6;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 11px;
+    font-weight: 500;
+    left: 286px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    width: 82px;
+  }
+  
+  .header .initial-icon {
+    height: 42px;
+    left: 388px;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  
+  .header .div-wrapper {
+    background-color: #d7f9ef;
+    border-radius: 4px;
+    height: 42px;
+    position: relative;
+    width: 43px;
+  }
+  
+  .header .text-wrapper-2 {
+    color: #0bb783;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    width: 12px;
+  }
+  
